@@ -92,4 +92,4 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para:
 
 ---
 
-Feito com ❤️ por Thiago Correia (https://github.com/th1gas-dev)
+Feito por Thiago Correia (https://github.com/th1gas-dev)
